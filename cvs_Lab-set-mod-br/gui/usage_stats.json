@@ -1,0 +1,25 @@
+{
+    "total_files_processed": 1,
+    "total_sessions": 6,
+    "last_used": "2025-12-22T11:43:52.272975",
+    "first_used": "2025-12-22T11:34:41.780489",
+    "processing_history": [
+        {
+            "timestamp": "2025-12-22T11:46:14.579114",
+            "filename": "1605-6",
+            "samples": 233,
+            "duration_sec": 0.066003
+        }
+    ],
+    "errors": [
+        {
+            "timestamp": "2025-12-22T11:44:07.250832",
+            "error": "Cannot save file into a non-existent directory: 'C:\\Users\\user\\Desktop\\CSV\\cvs_Lab-set-mod-br\\CSV'"
+        },
+        {
+            "timestamp": "2025-12-22T11:45:41.213206",
+            "error": "Cannot save file into a non-existent directory: 'C:\\Users\\user\\Desktop\\CSV\\cvs_Lab-set-mod-br\\CSV'"
+        }
+    ],
+    "app_version": "v1.3"
+}
