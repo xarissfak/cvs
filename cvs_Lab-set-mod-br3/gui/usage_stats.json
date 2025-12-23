@@ -1,0 +1,47 @@
+{
+    "total_files_processed": 2,
+    "total_sessions": 19,
+    "last_used": "2025-12-23T15:01:27.441849",
+    "first_used": "2025-12-23T12:12:44.560853",
+    "processing_history": [
+        {
+            "timestamp": "2025-12-23T14:23:00.741913",
+            "filename": "1605-6",
+            "samples": 233,
+            "duration_sec": 0.144008
+        },
+        {
+            "timestamp": "2025-12-23T14:43:26.981050",
+            "filename": "1605-6",
+            "samples": 233,
+            "duration_sec": 1.006057
+        }
+    ],
+    "errors": [
+        {
+            "timestamp": "2025-12-23T14:05:44.045618",
+            "error": "module 'config' has no attribute 'CSV_PATH'"
+        },
+        {
+            "timestamp": "2025-12-23T14:13:26.798086",
+            "error": "module 'config' has no attribute 'CSV_PATH'"
+        },
+        {
+            "timestamp": "2025-12-23T14:13:41.809944",
+            "error": "module 'config' has no attribute 'CSV_PATH'"
+        },
+        {
+            "timestamp": "2025-12-23T14:22:36.188509",
+            "error": "module 'config' has no attribute 'CSV_PATH'"
+        },
+        {
+            "timestamp": "2025-12-23T15:01:42.545713",
+            "error": "save_zero_csv() missing 1 required positional argument: 'output_dir'"
+        },
+        {
+            "timestamp": "2025-12-23T15:01:53.289328",
+            "error": "save_zero_csv() missing 1 required positional argument: 'output_dir'"
+        }
+    ],
+    "app_version": "v1.3"
+}
